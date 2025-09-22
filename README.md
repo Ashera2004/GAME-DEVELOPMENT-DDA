@@ -70,9 +70,13 @@ int main()
 **Output :**
 
 
+
 <img width="642" height="480" alt="GDT_exp1" src="https://github.com/user-attachments/assets/5bd8f73d-4629-4298-b071-c5cbbb825b2f" />
 
 
+
 **Result :**
+
+
 
  Thus the DDA algorithm was executed and verified successfully.
