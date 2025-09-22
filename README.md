@@ -4,6 +4,8 @@
 
 To  implement the DDA algorithm to draw a line using a c coding
 
+---
+
 **Algorithms :**
 
 Step 1 − Get the input of two end points (X0,Y0) and (X1,Y1)
@@ -16,8 +18,10 @@ Step 4 − Calculate the increment in x coordinate and y coordinate
 
 Step 5 − Plot the pixel by successfully incrementing x and y coordinates accordingly and complete the drawing of the line
 
+---
+
 **Program :**
-```
+```c
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
@@ -68,6 +72,8 @@ int main()
 
 ```
 
+----
+
 **Output :**
 
 
@@ -76,7 +82,7 @@ int main()
 
 
 
-
+---
 
 **Result :**
 
